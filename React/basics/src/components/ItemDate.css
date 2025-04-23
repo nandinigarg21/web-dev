@@ -1,0 +1,11 @@
+.date{
+    background-color: black;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    margin: 5px;
+    width: 100%;
+    padding: 2.5px;
+    border-radius: 10%;
+}

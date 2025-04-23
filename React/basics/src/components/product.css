@@ -1,0 +1,11 @@
+.product{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: yellow;
+    width: 30%;
+    flex-direction: column;
+    /* height: 55vh; */
+    gap: 25px;
+    padding: 8px;
+}

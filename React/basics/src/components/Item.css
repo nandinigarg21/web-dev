@@ -1,0 +1,11 @@
+.nirma{
+    text-align: center;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+    padding: 3.5px;
+    width: 90%;
+    font-size: 1.1rem;
+    
+}
