@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    background-color: #161D29;
+    color: white;
+}
+
+.bg-image{
+    background-image: url("C:\Users\anura\OneDrive\Desktop\sanKalp\frontend\src\assets\Images\bghome.svg")
+}
+
